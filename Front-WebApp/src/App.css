@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  background: radial-gradient(
+    circle,
+    rgba(255, 112, 51, 0.9192810913427871) 19%,
+    rgba(38, 38, 38, 1) 77%
+  );
+  height: 739px;
+}
+
+.Logo {
+  width: 370px;
+}
+
+.ButtonA {
+  width: 330px;
+  height: 80px;
+  margin: 25px;
+  font-size: 30px;
+  font-weight: bold;
+  background: rgb(250, 174, 134);
+  background: linear-gradient(
+    90deg,
+    rgba(250, 174, 134, 0.8520542005864846) 10%,
+    rgba(247, 124, 58, 0.9192810913427871) 46%
+  );
+  border-radius: 25px;
+  color: white;
+}
+.ButtonB {
+  width: 330px;
+  height: 80px;
+  margin: 25px;
+  font-size: 30px;
+  font-weight: bold;
+
+  background: linear-gradient(
+    90deg,
+    rgba(247, 124, 58, 0.9192810913427871) 55%,
+    rgba(250, 174, 134, 0.8520542005864846) 81%
+  );
+  border-radius: 25px;
+  color: white;
+}
+.Text {
+  font-size: 22px;
+  color: white;
+}
+.containerA {
+  text-align: center;
+}
+
+.LogoA {
+  width: 250px;
+}
+.demo-loadmore-list {
+  min-height: 350px;
+}
+
+.containerB {
+  background: radial-gradient(
+    circle,
+    rgba(255, 112, 51, 0.9192810913427871) 19%,
+    rgba(38, 38, 38, 1) 77%
+  );
+  width: 100%;
+  height: 100%;
+}
